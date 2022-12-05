@@ -15,4 +15,3 @@ Repositorio de ejemplo para ada school sobre el manejo de git
 - Hacer una bola, cubrir con plástico transparente y dejar reposar por una hora y media.
 - Una vez doblado su tamaño, trabajar en una superficie enharinada y hacer una bola con textura tersa.
 - Dejar reposar por media hora.
-- Hacer la salsa: licuar todos los ingredientes y poner a cocinar a fuego alto hasta que reduzca a la mitad. Debe quedar muy espesa, con una textura aterciopelada.
